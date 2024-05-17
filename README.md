@@ -41,6 +41,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Dicoding](https://www.dicoding.com/) - Sebuah platform edukasi teknologi.
 - [DumbWays](https://dumbways.id/) - Sebuah coding bootcamp gratis. Siswa akan dibekali kemampuan standar industri.
 - [Enigmacamp](https://www.enigmacamp.com/) - Enigmacamp merupakan bootcamp dengan model Ready To Work.
+- [Fastcampus](https://fastcampus.com/id) - Life-changing Education Fast Campus.
 - [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari full time program dan professional development demi mempersiapkan digital talent di Indonesia.
 - [Refactory](https://refactory.id/) - Sebuah bootcamp programming.
 - [Sysnap Academy](https://sydemy.com/) - Salah startup yang bergerak dibidang pendidikan.
